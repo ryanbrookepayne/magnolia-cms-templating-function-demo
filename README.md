@@ -1,0 +1,1 @@
+# magnolia-templating-function-demo
